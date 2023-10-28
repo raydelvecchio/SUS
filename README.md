@@ -1,6 +1,6 @@
 # sus_final_project
 Final project for CS2952N with Prof. Chen Sun. Original repository: https://github.com/nityathakkar/sus_final_project. 
-Build with Nitya Thakkar () and Dave Lubawski (). 
+Team effort with Nitya Thakkar (https://github.com/nityathakkar) and Dave Lubawski (https://github.com/DingerDave). 
 
 # Workflow
 1. environment
