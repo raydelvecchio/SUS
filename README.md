@@ -1,6 +1,7 @@
 # sus_final_project
-Final project for CS2952N with Prof. Chen Sun. Original repository: https://github.com/nityathakkar/sus_final_project. 
-Team effort with Nitya Thakkar (https://github.com/nityathakkar) and Dave Lubawski (https://github.com/DingerDave). 
+Final project for CS2952N with Prof. Chen Sun. Original repository linked [here](https://github.com/nityathakkar/sus_final_project). 
+Team effort with [Nitya Thakkar](https://github.com/nityathakkar) and [Dave Lubawski](https://github.com/DingerDave). Project
+report found in `SUS_Embedding.pdf`.
 
 # Workflow
 1. environment
