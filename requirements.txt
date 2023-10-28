@@ -1,0 +1,8 @@
+torch==1.8.0
+transformers
+numpy
+torchvision
+pycocotools
+datasets
+torchtext
+portalocker

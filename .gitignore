@@ -1,0 +1,17 @@
+data/
+*.zip
+coco/
+*env
+train_loader.pkl
+val_loader.pkl
+checkpoint-epoch0
+checkpoint-epoch1
+checkpoint-epoch2
+checkpoint-epoch3
+checkpoint-epoch4
+checkpoint-epoch5
+__pycache__/
+.idea/
+.venv/
+2.0.0
+*.sh
